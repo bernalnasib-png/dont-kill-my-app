@@ -1,6 +1,6 @@
 ---
 manufacturer:
-    - general
+    - generalspeedcharge
 ---
 
 ### Android 6+
